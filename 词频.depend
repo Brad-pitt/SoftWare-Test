@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553022569 source:g:\counterattack\c\´ÊÆµ\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
